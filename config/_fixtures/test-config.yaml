@@ -1,0 +1,10 @@
+service_data:
+  address: localhost:8082
+  
+source_data:
+  postgres_server: localhost
+  postgres_name: test_db
+  postgres_username: root
+  postgres_password: pass
+  postgres_port: 5432
+  postgres_timeout: 5
